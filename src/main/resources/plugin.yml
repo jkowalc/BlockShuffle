@@ -3,3 +3,5 @@ version: '${project.version}'
 main: pl.speedriders.blockshuffle.BlockShuffle
 api-version: 1.19
 description: Minecraft Spigot Plugin inspired by Dream's Block Shuffle series
+softdepend:
+  - Multiverse-Core
